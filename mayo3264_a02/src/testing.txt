@@ -1,0 +1,135 @@
+"""
+-------------------------------------------------------
+Assignment 2 Testing
+-------------------------------------------------------
+Author:  Nicolas Mayorga
+ID:      169053264
+Email:   mayo3264@mylaurier.ca
+Version: 2024-01-20
+-------------------------------------------------------
+"""
+-------------------------------------------------------
+t01
+-------------------------------------------------------
+Name:       Canuck Burger
+Origin:     Canadian
+Vegetarian: False
+Calories:   7500
+
+Name:       Canada Goose Chili
+Origin:     Canadian
+Vegetarian: False
+Calories:   199
+
+Name:       Poutine
+Origin:     Canadian
+Vegetarian: False
+Calories:   710
+
+Name:       Fricot
+Origin:     Canadian
+Vegetarian: False
+Calories:   360
+
+Name:       Grilled Salmon
+Origin:     Canadian
+Vegetarian: False
+Calories:   511
+
+
+Name:       Butter Chicken
+Origin:     Indian
+Vegetarian: False
+Calories:   490
+
+Name:       Chicken Kabob
+Origin:     Indian
+Vegetarian: False
+Calories:   167
+
+
+Name:       Vegetable Alicha
+Origin:     Ethiopian
+Vegetarian: True
+Calories:   138
+-------------------------------------------------------
+t02
+-------------------------------------------------------
+791
+-------------------------------------------------------
+t03
+-------------------------------------------------------
+1856
+
+311
+
+150
+-------------------------------------------------------
+t04
+-------------------------------------------------------
+
+Food                                Origin       Vegetarian Calories
+----------------------------------- ------------ ---------- --------
+BBQ Pork                            Chinese           False      920
+Beef with Green Pepper              Chinese           False      251
+Butter Chicken                      Indian            False      490
+Canada Goose Chili                  Canadian          False      199
+Canuck Burger                       Canadian          False     7500
+Chamuco                             Mexican            True      150
+Chicken Chow Mein                   Chinese           False      178
+Chicken Kabob                       Indian            False      167
+Chicken Wings                       American          False      298
+Chip Butty                          English            True      956
+Chirashi Don                        Japanese          False      600
+Crepe                               Italian            True      186
+Diet Free-Range Gluten-free Water   American           True        0
+Fettuccine                          Italian           False      266
+Fricot                              Canadian          False      360
+Fried Rice                          Chinese           False      425
+General Tao Chicken                 Chinese           False      850
+Greek Salad                         Greek              True      185
+Grilled Salmon                      Canadian          False      511
+Hokey Pokey Ice Cream               New Zealand        True      106
+Kung Pao Chicken                    Chinese           False      229
+Lasagna                             Italian           False      135
+Lemon Chicken                       Chinese           False      226
+Moo Goo Guy Pan                     Chinese           False      272
+Natto                               Japanese           True      212
+Orange Chicken                      Chinese           False      800
+Panzerotti                          Italian           False      770
+Pavlova                             New Zealand        True      272
+Pepperoni Pizza                     Italian           False      713
+Poutine                             Canadian          False      710
+Ravioli                             Italian           False      246
+Shark Fin Soup                      Chinese           False       46
+Shortbread                          Scottish           True      502
+Spanakopita                         Greek              True      260
+Spicy Vegetable Moo Shu             Chinese            True      140
+Spring Rolls                        Chinese            True      200
+Sweet and Sour Pork                 Chinese           False      231
+Szechuan Shrimp                     Chinese           False      516
+Teppanyaki                          Japanese          False      200
+Teriyaki                            Japanese          False      233
+Turducken                           American          False    12240
+Vegetable Alicha                    Ethiopian          True      138
+Vegetables with Cashew Nuts         Chinese            True      143
+-------------------------------------------------------
+t05
+-------------------------------------------------------
+Food                                Origin       Vegetarian Calories
+----------------------------------- ------------ ---------- --------
+Spicy Vegetable Moo Shu             Chinese            True      140
+Spring Rolls                        Chinese            True      200
+Vegetables with Cashew Nuts         Chinese            True      143
+
+Food                                Origin       Vegetarian Calories
+----------------------------------- ------------ ---------- --------
+Canada Goose Chili                  Canadian          False      199
+Fricot                              Canadian          False      360
+Grilled Salmon                      Canadian          False      511
+Poutine                             Canadian          False      710
+
+Food                                Origin       Vegetarian Calories
+----------------------------------- ------------ ---------- --------
+Chamuco                             Mexican            True      150
+-------------------------------------------------------
